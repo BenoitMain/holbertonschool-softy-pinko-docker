@@ -1,2 +1,7 @@
 task3/front-end/softy-pinko-front-end
 task4/front-end/softy-pinko-front-end
+__pycache__/
+*.pyc
+node_modules/
+.env
+.DS_Store
